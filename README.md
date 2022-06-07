@@ -1,1 +1,1 @@
-# Stock-Prediction-Model-with-Linear-regression-and-decision-Tree
+# Stock-Prediction-Model-with-Linear-regression-and-decision
